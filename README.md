@@ -1,9 +1,9 @@
 ## G'day 👋, I'm Giannis
 #### Full Stack developer from Athens, Greece 
 
-Based in Athens, I am a Full Stack developer, currently serving as a senior frontend developer at Arhs Development Hellas. My mission is to deliver exceptional software solutions for our clients.
+Living in Athens, I work as a Full Stack developer and currently hold the position of senior frontend developer at Arhs Development Hellas. My goal is to provide outstanding software solutions for our clients.
 
-### Glad to see you here!
+### Nice to see you here! 😁
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs etc. 
 
@@ -19,7 +19,7 @@ You can reach out to me at giannevangelidis@gmail.com for any technical issues o
 - 👾 &nbsp; Fun fact: I find the book [Advanced React](https://www.advanced-react.com/) by Nadia Makarevich really interesting.
 - 📫 &nbsp; Reach me out: giannevangelidis@gmail.com.
 
-### Languages and Tools:
+### Languages and Tools 🔧
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
